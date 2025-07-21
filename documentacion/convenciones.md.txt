@@ -1,0 +1,5 @@
+convenciones de nombre
+ ejemplos: los nombres de archivos deben ser en minusculas
+           los nombres de los archivos deben tener guiones bajos
+           los nombres de los archivos deben de estar asociados al proyecto principal
+           los nombres de los archivos deben estar correctamente escritos
