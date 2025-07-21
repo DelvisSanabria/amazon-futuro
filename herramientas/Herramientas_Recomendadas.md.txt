@@ -1,1 +1,0 @@
-# Herramientas del Proyecto y lista tres herramientas genéricas (ej: "IDE", "Editor de Texto", "Navegador Web").
